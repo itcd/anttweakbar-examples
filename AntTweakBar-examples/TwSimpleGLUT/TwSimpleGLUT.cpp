@@ -19,8 +19,8 @@
 #include <stdio.h>
 #include <math.h>
 
-#include<GL/glew.h>
-#include<GL/freeglut.h>
+#include <GL/glew.h>
+#include <GL/freeglut.h>
 #include <AntTweakBar.h>
 
 // This example displays one of the following shapes
